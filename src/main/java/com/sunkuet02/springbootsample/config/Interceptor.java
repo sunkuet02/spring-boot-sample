@@ -1,4 +1,4 @@
-package org.sunkuet02.springdataes.config;
+package com.sunkuet02.springbootsample.config;
 
 import org.springframework.web.servlet.HandlerInterceptor;
 import org.springframework.web.servlet.ModelAndView;

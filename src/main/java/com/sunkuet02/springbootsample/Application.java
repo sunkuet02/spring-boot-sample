@@ -1,4 +1,4 @@
-package org.sunkuet02.springdataes;
+package com.sunkuet02.springbootsample;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
